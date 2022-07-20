@@ -13,7 +13,8 @@
         countryShow: false
        }
    },
-		components: {
+   
+   components: {
       country,
 		},
       getCountrieCode(event) {
